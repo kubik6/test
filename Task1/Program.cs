@@ -31,7 +31,7 @@ namespace Task1
             //Console.WriteLine($"Area is {area}");
 
 
-            //Task2
+            //Task2 --------------------------------------------------------------------------------------------------------
             //İstifadəçidən 2 int dəyər alın və birinci ədədi ikinciyə bölün . Misal: 16, 5.Nəticə 3 yox, 3,2 olmalıdır.
 
             //Console.WriteLine("Write two numbers");
@@ -42,11 +42,43 @@ namespace Task1
 
             //Console.WriteLine($"Answer {c}");
 
-            // Task 3
+            // Task 3 ---------------------------------------------------------------------------------------------------------
             //Task3
             // Tip Çevirmelerine aid 5 nümunə yazın
 
-            //Task4
+            // 1 ============
+            //double val = 156.89;
+            //int valInt = (int)val;
+            //Console.WriteLine(valInt); // 156
+
+            // 2 ===================
+            //string text = "123";
+            //int num = Convert.ToInt32(text);
+            //Console.WriteLine(num);
+
+            //3 ======================
+            //string text = "123";
+            //int num = int.Parse(text);
+            //Console.WriteLine(num);
+
+            //4 ========================
+            //int num = 568;
+            //string text = Convert.ToString(num);
+            //Console.WriteLine(text);
+
+            //5 ==========================
+            //string text = "456";
+            //bool result = int.TryParse(text, out int textInInt);
+            //if (result)
+            //{
+            //    Console.WriteLine(text);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Cannot convert");
+            //}
+
+            //Task 4 ------------------------------------------------------------------------------------------------------------
             // Ədədlər üzərində operatorlardan istifadə etməklə nümunələr yazın.
             //  Hər operotara aid 1 nümunə.Fərqli data typle - lardan istifadə edin
 
@@ -76,12 +108,13 @@ namespace Task1
             //int remainder = num1 % num2;
             //Console.WriteLine($"Modul {num1} % {num2} = {remainder}");
 
-            //Task5
+            //Task5-------------------------------------------------------------------------------------------------------------------------
             //int number1 = 7;
             //int number2 = 8;
             //int number3 = 9;
             //var result = !(number1 <= number2) == (number3 != number3++);
             //bunu consola yazdrsaq cavab nece olar?
+
             // true
 
 
