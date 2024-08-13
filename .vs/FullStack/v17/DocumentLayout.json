@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3810D9F-FECB-4C23-B4B7-C0D14317D1E8}|Task1\\Task1.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3810D9F-FECB-4C23-B4B7-C0D14317D1E8}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63678D56-61B4-41C0-BFE1-573F62DFE8D8}|Task7\\Task7.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63678D56-61B4-41C0-BFE1-573F62DFE8D8}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task1\\Program.cs*",
-              "RelativeToolTip": "Task1\\Program.cs*",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwEwAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAMIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:31:16.149Z",
+              "WhenOpened": "2024-08-13T11:38:08.304Z",
               "EditorCaption": ""
             }
           ]

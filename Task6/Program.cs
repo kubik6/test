@@ -14,10 +14,8 @@ namespace Task6
             //{
             //    if (i % 3 == 0 && i % 5 == 0)
             //    {
-            //       Console.WriteLine(i);
+            //        Console.WriteLine(i);
             //    }
-
-
             //}
 
             //Task 2 ===========================================================================================================================
@@ -87,7 +85,7 @@ namespace Task6
             //{
             //    Console.WriteLine("3 regemli deyil");
             //    return;
-            //} 
+            //}
 
             //string numString = Convert.ToString(num);
 
@@ -96,7 +94,9 @@ namespace Task6
             //for (int i = 0; i < numString.Length; i++)
             //{
             //    //sum += Convert.ToInt32(numString[i]);
-            //    sum += numString[i] - '0';
+            //  sum += numString[i] - '0';
+
+
             //}
 
             //Console.WriteLine("Ededlerin cemi: " + sum);
@@ -108,6 +108,23 @@ namespace Task6
             //int a = Convert.ToInt32(Console.ReadLine());
             //int b = Convert.ToInt32(Console.ReadLine());
             //int c = Convert.ToInt32(Console.ReadLine());
+
+            //int max = a;
+            //int min = a;
+
+            //if (b > max) max = b;
+            //if (c > max) max = c; 
+
+            //if (b < min) min = b;
+            //if (c < min) min = c;
+
+            //Console.WriteLine("Max: " + max);
+            //Console.WriteLine("Min: " + min);
+
+
+
+
+           // Version 2 -----------------------------------------------------------
 
             //int[] num = {a, b, c};
 

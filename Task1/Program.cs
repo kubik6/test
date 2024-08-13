@@ -57,12 +57,12 @@ namespace Task1
             //Console.WriteLine(num);
 
             //3 ======================
-            //string text = "123";
+            //string text = "0123";
             //int num = int.Parse(text);
             //Console.WriteLine(num);
 
             //4 ========================
-            //int num = 568;
+            //int num = 0568;
             //string text = Convert.ToString(num);
             //Console.WriteLine(text);
 
@@ -106,7 +106,7 @@ namespace Task1
             //int num1 = 17;
             //int num2 = 5;
             //int remainder = num1 % num2;
-            //Console.WriteLine($"Modul {num1} % {num2} = {remainder}");
+            //Console.WriteLine($"Modulus {num1} % {num2} = {remainder}");
 
             //Task5-------------------------------------------------------------------------------------------------------------------------
             //int number1 = 7;
