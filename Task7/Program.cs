@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata;
 
 namespace Task7
 {
@@ -57,7 +58,7 @@ namespace Task7
             //        {
             //            Console.WriteLine($"Dublicat eded {ints[i]} index {j}");
             //            check[j] = true;
-            //            check[i] = true;
+            //            // check[i] = true;
             //        }
 
             //    }
@@ -152,7 +153,7 @@ namespace Task7
 
             //    int c = a + b;
 
-            //    if(c > num)
+            //    if (c > num)
             //    {
             //        break;
             //    }
@@ -194,10 +195,40 @@ namespace Task7
             //if (polindrom) Console.WriteLine(input + " polindromdu");
 
 
+            // =====================================================================================================================================
+            //  Bir hesablama methodu yazın. Bu methoda int tipində dəyərlər əlavə edin və bu dəyərləri daxildə toplayın.
+            //  bunun üçün method overloadingdən istifadə edin.bir methodunuzda 2 parametr, birində 3 və s.
 
 
 
+            //Console.WriteLine(Sum(5, 6));
+            //Console.WriteLine(Sum(7, 8));
+            //Console.WriteLine(Sum(5, 6, 8));
+            //Console.WriteLine(Sum(5, 6, 8, 9));
 
         }
+
+        //public static int Sum(int a, int b)
+        //{
+        //    return a + b;
+        //}
+
+        //public static long Sum(long a, long b)
+        //{
+
+        //    return a + b;
+        //}
+
+        //public static int Sum(int a, int b, int c)
+        //{
+        //    return a + b + c;
+        //}
+
+        //public static int Sum(int a, int b, int c, int d)
+        //{
+        //    return a + b + c + d;
+        //}
+
     }
+
 }
