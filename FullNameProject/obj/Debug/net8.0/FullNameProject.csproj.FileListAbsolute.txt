@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\bin\Debug\net8.0\FullNameProject.exe
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\bin\Debug\net8.0\FullNameProject.deps.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\bin\Debug\net8.0\FullNameProject.runtimeconfig.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\bin\Debug\net8.0\FullNameProject.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\bin\Debug\net8.0\FullNameProject.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.AssemblyInfo.cs
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.sourcelink.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\refint\FullNameProject.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\FullNameProject.genruntimeconfig.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\FullNameProject\obj\Debug\net8.0\ref\FullNameProject.dll

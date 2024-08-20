@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\bin\Debug\net8.0\AnimalEncapsulation.exe
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\bin\Debug\net8.0\AnimalEncapsulation.deps.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\bin\Debug\net8.0\AnimalEncapsulation.runtimeconfig.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\bin\Debug\net8.0\AnimalEncapsulation.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\bin\Debug\net8.0\AnimalEncapsulation.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.AssemblyInfo.cs
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.sourcelink.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\refint\AnimalEncapsulation.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\AnimalEncapsulation.genruntimeconfig.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimalEncapsulation\obj\Debug\net8.0\ref\AnimalEncapsulation.dll

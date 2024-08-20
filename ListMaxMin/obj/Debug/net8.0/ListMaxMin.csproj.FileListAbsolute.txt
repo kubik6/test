@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\bin\Debug\net8.0\ListMaxMin.exe
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\bin\Debug\net8.0\ListMaxMin.deps.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\bin\Debug\net8.0\ListMaxMin.runtimeconfig.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\bin\Debug\net8.0\ListMaxMin.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\bin\Debug\net8.0\ListMaxMin.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.AssemblyInfo.cs
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.sourcelink.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\refint\ListMaxMin.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ListMaxMin.genruntimeconfig.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\ListMaxMin\obj\Debug\net8.0\ref\ListMaxMin.dll

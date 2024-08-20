@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\bin\Debug\net8.0\AnimallWorld.exe
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\bin\Debug\net8.0\AnimallWorld.deps.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\bin\Debug\net8.0\AnimallWorld.runtimeconfig.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\bin\Debug\net8.0\AnimallWorld.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\bin\Debug\net8.0\AnimallWorld.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.AssemblyInfo.cs
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.sourcelink.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\refint\AnimallWorld.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\AnimallWorld.genruntimeconfig.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\AnimallWorld\obj\Debug\net8.0\ref\AnimallWorld.dll

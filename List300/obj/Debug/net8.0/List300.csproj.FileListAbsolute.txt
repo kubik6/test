@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\bin\Debug\net8.0\List300.exe
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\bin\Debug\net8.0\List300.deps.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\bin\Debug\net8.0\List300.runtimeconfig.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\bin\Debug\net8.0\List300.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\bin\Debug\net8.0\List300.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.AssemblyInfo.cs
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.sourcelink.json
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\refint\List300.dll
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.pdb
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\List300.genruntimeconfig.cache
+C:\Users\User\Desktop\Agile academy C#\FullStack\List300\obj\Debug\net8.0\ref\List300.dll

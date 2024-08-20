@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63678D56-61B4-41C0-BFE1-573F62DFE8D8}|Task7\\Task7.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63678D56-61B4-41C0-BFE1-573F62DFE8D8}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\animalencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|solutionrelative:animalencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\animalencapsulation\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|solutionrelative:animalencapsulation\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\animalencapsulation\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|solutionrelative:animalencapsulation\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|c:\\users\\user\\desktop\\agile academy c#\\fullstack\\animalencapsulation\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB6666-06BB-42F0-9555-A093003D8F4E}|AnimalEncapsulation\\AnimalEncapsulation.csproj|solutionrelative:animalencapsulation\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Cat.cs",
+              "RelativeDocumentMoniker": "AnimalEncapsulation\\Cat.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Cat.cs",
+              "RelativeToolTip": "AnimalEncapsulation\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:06:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalEncapsulation\\Dog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Dog.cs",
+              "RelativeToolTip": "AnimalEncapsulation\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:51:14.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalEncapsulation\\Animal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Animal.cs",
+              "RelativeToolTip": "AnimalEncapsulation\\Animal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:45:26.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task7\\Program.cs",
-              "RelativeDocumentMoniker": "Task7\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\Task7\\Program.cs",
-              "RelativeToolTip": "Task7\\Program.cs",
-              "ViewState": "AQIAAKwAAAAAAAAAAAAAAMIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalEncapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Agile academy C#\\FullStack\\AnimalEncapsulation\\Program.cs",
+              "RelativeToolTip": "AnimalEncapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:38:08.304Z",
+              "WhenOpened": "2024-08-20T17:45:00.633Z",
               "EditorCaption": ""
             }
           ]
