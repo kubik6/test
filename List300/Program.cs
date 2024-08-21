@@ -8,18 +8,20 @@
             bool result = Search(num);
             Console.WriteLine(result);
 
+
         }
         static bool Search(List<int> list)
         {
-            // List<int> a = list.Find(x => x == 300);
-            // return a > 0;
+            int a = list.Find(x => x == 300);
 
-            foreach (int i in list)
-            {
-                if (i == 300) return true;
+            return a > 0;
 
-            }
-            return false;
+            //foreach (int i in list)
+            //{
+            //    if (i == 300) return true;
+
+            //}
+            //return false;
         }
     }
 }
